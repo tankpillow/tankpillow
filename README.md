@@ -1,5 +1,5 @@
 ## Introduction
-Hey there! I am a Minecraft mod developer. 
+Hey there!
 
 ### 📑 About Me
 
