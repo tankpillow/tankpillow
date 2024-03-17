@@ -18,3 +18,5 @@ Here are my GitHub statistics.
 ![tankpillow's Stats](https://github-readme-stats.vercel.app/api?username=tankpillow&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![tankpillow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tankpillow&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4UQ6J4)
